@@ -52,6 +52,10 @@ MyOneUniverse, the network is located at http://www.MyOneUniverse.com, it is a s
   - MyLists.im, [Link](http://www.MyLists.im/),
 
   - Calendarlist.com, [Link](http://www.Calendarlist.com/),
+    - Additional
+    - Kidstuff
+    - Clothes, mine, wife, kids
+    - Automobiles, bicycle, motocycle
 
 - MyPersonalOrganizer, personal information. [Link](http://www.MyPersonalOrganizer.com/),
 
@@ -77,6 +81,9 @@ MyOneUniverse, the network is located at http://www.MyOneUniverse.com, it is a s
     - mystuff.im
     - mytechnologyhouse.com
     - mywebs.im
+    - PhotoAlbum, family, Personal, Wife, Kids
+    - MediaAlbum, family, Personal, Wife, Kids
+    - SpecialCollections, The Greatest, SuperCars, Bikes, Stamps, Coins, Girls, Guys
 
 - MyBusinessOrganizer, business planning. [Link](http://www.MyBusinessOrganizer.com/),
 
